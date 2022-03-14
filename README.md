@@ -3,9 +3,9 @@ I uploaded python codes for estimation of weibull paramters and pdf files contai
 
 English ver.  
 - What is the weibull distribution  
-  https://sjsjlee.notion.site/Python-libraries-for-estimation-of-Weibull-parameters-bfeaeb89bb0447b0b0ab286146b61d53 
+  https://sjsjlee.notion.site/What-is-the-Weibull-distribution-6290abb4ea184bf6b0e960f2e7219f2a
 - Python libraries for estimation of weibull parameters  
-  https://sjsjlee.notion.site/What-is-the-Weibull-distribution-6290abb4ea184bf6b0e960f2e7219f2a  
+  https://sjsjlee.notion.site/Python-libraries-for-estimation-of-Weibull-parameters-bfeaeb89bb0447b0b0ab286146b61d53  
 
 Korean ver.  
 - Weibull 분포 개념 정리  
